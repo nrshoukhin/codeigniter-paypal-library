@@ -1,4 +1,4 @@
-# ci_paypal
+# CodeIgniter PayPal Payment Integration
 
  - PayPal PHP SDK has beed used
  - Support from PHP 5.3
