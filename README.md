@@ -2,6 +2,7 @@
 
  - PayPal PHP SDK has beed used
  - Support from PHP 5.3
+ - Support upto Codeigniter 3
  - You can config it for both sandbox and live using the configuration file
 
 # Installation
